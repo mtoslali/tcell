@@ -1,0 +1,11 @@
+{               
+				"FTS_USERNAME": "bu1305014606334506",
+                "FTS_PASSWORD": "bu130500dc80a73",
+                "FTS_URL": "http://prptims.turkcell.com.tr/fts/rest/file/upload",
+                "API_KEY": "8vRNh3YD1MG3elrwAesK5t82uRIXAYd5",
+                "TEMPLATE_DIR" : "C:\Users\TCMTOSYALI\Desktop\templates\5gunluk.jpg",
+                "FFMPEG_DIR" :"D:\dev\downloads\ffmpeg-20160808-ce2217b-win64-static\bin\ffmpeg",
+                "TEMPLATE_Sunny" : "C:\\Users\\TCMTOSYALI\\Desktop\\templates\\5gunluk.jpg",
+                "TES_USERNAME" : "bu1405014671871422",
+                "TES_PASSWORD" :   "bu140503f53e235"       
+}
